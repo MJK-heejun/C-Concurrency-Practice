@@ -12,10 +12,16 @@ namespace AsyncPractice
         static void Main(string[] args)
         {
 
-            TaskWaitDemo.Instance.SimpleDelay();
+            //TaskWaitDemo.Instance.SimpleDelay();
+            //TaskWaitDemo.Instance.TaskWaitVsAsyncAwaitTask();
+            TaskWaitDemo.Instance.TaskWaitVsAsyncAwaitAsync();
 
             Console.WriteLine("***Program Ended***");
             Console.ReadLine();
+
+
+
+
 
         }
 
