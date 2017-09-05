@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2017\Projects\AsyncPractice\AsyncPractice\bin\Debug\AsyncPractice.exe.config
+c:\users\james\documents\visual studio 2017\Projects\AsyncPractice\AsyncPractice\bin\Debug\AsyncPractice.exe
+c:\users\james\documents\visual studio 2017\Projects\AsyncPractice\AsyncPractice\bin\Debug\AsyncPractice.pdb
+c:\users\james\documents\visual studio 2017\Projects\AsyncPractice\AsyncPractice\obj\Debug\AsyncPractice.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2017\Projects\AsyncPractice\AsyncPractice\obj\Debug\AsyncPractice.exe
+c:\users\james\documents\visual studio 2017\Projects\AsyncPractice\AsyncPractice\obj\Debug\AsyncPractice.pdb
