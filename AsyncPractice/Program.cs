@@ -14,7 +14,12 @@ namespace AsyncPractice
 
             //TaskWaitDemo.Instance.SimpleDelay();
             //TaskWaitDemo.Instance.TaskWaitVsAsyncAwaitTask();
-            TaskWaitDemo.Instance.TaskWaitVsAsyncAwaitAsync();
+            //TaskWaitDemo.Instance.TaskWaitVsAsyncAwaitAsync();
+
+            //AsyncAwaitDemo.Instance.AwaitAll();
+            //AsyncAwaitDemo.Instance.AwaitAny();
+            AsyncAwaitDemo.Instance.AwaitInOrder();
+            
 
             Console.WriteLine("***Program Ended***");
             Console.ReadLine();
